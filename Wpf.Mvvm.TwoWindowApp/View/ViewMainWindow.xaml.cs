@@ -22,6 +22,8 @@ namespace Wpf.Mvvm.TwoWindowApp.View
         public ViewMainWindow()
         {
             InitializeComponent();
+           
+
         }
     }
 }
